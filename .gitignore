@@ -1,0 +1,14 @@
+weights/allmpnet_model/*
+!weights/allmpnet_model/.gitkeep
+
+weights/bert_model/*
+!weights/bert_model/.gitkeep
+
+weights/knn_model/*
+!weights/knn_model/.gitkeep
+
+submissions/*
+!submissions/readme.md
+
+embeddings/*
+!embeddings/readme.md
